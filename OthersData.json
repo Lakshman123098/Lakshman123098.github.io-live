@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Nepal 1",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12106-j9ooxpug-v2/imageContent-12106-j9ooxpug-m2.png",
+    "id": "567",
+    "group": "Others",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/manifest.mpd"
+  },
+  {
+    "name": "Rengoni TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-860-j5mao56o-v1/imageContent-860-j5mao56o-m1.png",
+    "id": "214",
+    "group": "Others",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_332/output/manifest.mpd"
+  },
+  {
+    "name": "Indradhanu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11485-j9jsysqw-v1/imageContent-11485-j9jsysqw-m1.png",
+    "id": "368",
+    "group": "Others",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_576/output/manifest.mpd"
+  },
+  {
+    "name": "DY 365",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11411-j9jqocds-v1/imageContent-11411-j9jqocds-m1.png",
+    "id": "353",
+    "group": "Others",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_534/output/manifest.mpd"
+  },
+  {
+    "name": "News18 Assam North East",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12390-jai3fgy0-v1/imageContent-12390-jai3fgy0-m1.png",
+    "id": "68",
+    "group": "Others",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_375/output/manifest.mpd"
+  },
+  {
+    "name": "NEWS LIVE",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-956-j5mipkxs-v1/imageContent-956-j5mipkxs-m1.png",
+    "id": "226",
+    "group": "Others",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_334/output/manifest.mpd"
+  },
+  {
+    "name": "Protidin Time",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-879-j5mdmlqw-v1/imageContent-879-j5mdmlqw-m1.png",
+    "id": "221",
+    "group": "Others",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_335/output/manifest.mpd"
+  },
+  {
+    "name": "Prag News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11673-j9kfe73s-v1/imageContent-11673-j9kfe73s-m1.png",
+    "id": "423",
+    "group": "Others",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_675/output/manifest.mpd"
+  },
+  {
+    "name": "North East Live",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11644-j9k1gjow-v1/imageContent-11644-j9k1gjow-m1.png",
+    "id": "417",
+    "group": "Others",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_664/output/manifest.mpd"
+  },
+  {
+    "name": "NKTV PLUS",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NKTVPLUS_Thumbnail-v2/NKTVPLUS_Thumbnail.png",
+    "id": "894",
+    "group": "Others",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1303/output/manifest.mpd"
+  },
+  {
+    "name": "ND24-Newsdaily.in",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69824-l1dfgvcg-v1/imageContent-69824-l1dfgvcg-m3.png",
+    "id": "977",
+    "group": "Others",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1806/output/manifest.mpd"
+  },
+  {
+    "name": "NB NEWS",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NBNEWS_Thumbnail-v2/NBNEWS_Thumbnail.png",
+    "id": "1076",
+    "group": "null",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1890/output/manifest.mpd"
+  },
+  {
+    "name": "DD North East",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11363-j9jprc40-v1/imageContent-11363-j9jprc40-m1.png",
+    "id": "331",
+    "group": "Others",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_516/output/manifest.mpd"
+  },
+  {
+    "name": "DD Kashir",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11345-j9jpidkw-v1/imageContent-11345-j9jpidkw-m1.png",
+    "id": "325",
+    "group": "Others",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_509/output/manifest.mpd"
+  },
+  {
+    "name": "Ramdhenu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11728-j9kw1zp4-v1/imageContent-11728-j9kw1zp4-m1.png",
+    "id": "449",
+    "group": "Others",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_692/output/manifest.mpd"
+  }
+]

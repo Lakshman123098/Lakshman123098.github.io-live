@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Zee Telugu HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png",
+    "id": "635",
+    "group": "Telugu",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Telugu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png",
+    "id": "250",
+    "group": "Telugu",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd"
+  },
+  {
+    "name": "Gemini TV HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png",
+    "id": "355",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifest.mpd"
+  },
+  {
+    "name": "STAR Maa HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png",
+    "id": "516",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd"
+  },
+  {
+    "name": "ETV HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png",
+    "id": "359",
+    "group": "Telugu",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd"
+  },
+  {
+    "name": "ETV Telugu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-492-j5jxvaeo-v1/imageContent-492-j5jxvaeo-m1.png",
+    "id": "145",
+    "group": "Telugu",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd"
+  },
+  {
+    "name": "Gemini Life",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png",
+    "id": "361",
+    "group": "Telugu",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd"
+  },
+  {
+    "name": "ETV Plus",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11423-j9jqqegg-v1/imageContent-11423-j9jqqegg-m1.png",
+    "id": "352",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifest.mpd"
+  },
+  {
+    "name": "Tata Play Toons+",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png",
+    "id": "996",
+    "group": "null",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1822/output/manifest.mpd"
+  },
+  {
+    "name": "Telugu Naaptol",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12186-j9plqam8-v4/imageContent-12186-j9plqam8-m5.png",
+    "id": "590",
+    "group": "Telugu",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_485/output/manifest.mpd"
+  },
+  {
+    "name": "Vissa TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12164-j9phk5iw-v1/imageContent-12164-j9phk5iw-m1.png",
+    "id": "585",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_820/output/manifest.mpd"
+  },
+  {
+    "name": "Tata Play English in Telugu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23721-jg0fhacg-v2/imageContent-23721-jg0fhacg-m2.PNG",
+    "id": "645",
+    "group": "Knowledge",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_880/output/manifest.mpd"
+  },
+  {
+    "name": "Gemini Movies HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png",
+    "id": "362",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd"
+  },
+  {
+    "name": "Star Maa Movies HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG",
+    "id": "387",
+    "group": "Telugu",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd"
+  },
+  {
+    "name": "Star Maa Gold",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png",
+    "id": "388",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Cinemalu HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png",
+    "id": "636",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Cinemalu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png",
+    "id": "252",
+    "group": "Telugu",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd"
+  },
+  {
+    "name": "ETV Cinema",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-426-j5jsm1wo-v1/imageContent-426-j5jsm1wo-m1.png",
+    "id": "128",
+    "group": "Telugu",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_227/output/manifest.mpd"
+  },
+  {
+    "name": "Tata Play Telugu Classics",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPTECL_Thumbnail-v1/TPTECL_Thumbnail.png",
+    "id": "1073",
+    "group": "null",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1887/output/manifest.mpd"
+  },
+  {
+    "name": "ETV Life",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11182-j9i3o5pc-v2/imageContent-11182-j9i3o5pc-m2.png",
+    "id": "268",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_538/output/manifest.mpd"
+  },
+  {
+    "name": "Sakshi TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12260-j9qv0lz4-v1/imageContent-12260-j9qv0lz4-m1.png",
+    "id": "596",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_701/output/manifest.mpd"
+  },
+  {
+    "name": "ETV Andhra Pradesh",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-498-j5jy7i80-v1/imageContent-498-j5jy7i80-m1.png",
+    "id": "146",
+    "group": "Telugu",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_226/output/manifest.mpd"
+  },
+  {
+    "name": "TV5 News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11329-j9jot000-v2/imageContent-11329-j9jot000-m2.png",
+    "id": "320",
+    "group": "Telugu",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_802/output/manifest.mpd"
+  },
+  {
+    "name": "TV9 Telugu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30-j5fc0v80-v2/imageContent-30-j5fc0v80-m2.png",
+    "id": "11",
+    "group": "Telugu",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/manifest.mpd"
+  },
+  {
+    "name": "NTV Telugu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-586-j5kz3qkw-v1/imageContent-586-j5kz3qkw-m1.png",
+    "id": "160",
+    "group": "Telugu",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_297/output/manifest.mpd"
+  },
+  {
+    "name": "ABN Andhra Jyothy",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-951-j5mipdzs-v1/imageContent-951-j5mipdzs-m1.png",
+    "id": "225",
+    "group": "Telugu",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_295/output/manifest.mpd"
+  },
+  {
+    "name": "V6 Telugu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11194-j9i4cz80-v1/imageContent-11194-j9i4cz80-m1.png",
+    "id": "274",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_810/output/manifest.mpd"
+  },
+  {
+    "name": "ETV Telangana",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-255-j5fz95pc-v1/imageContent-255-j5fz95pc-m1.png",
+    "id": "83",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/manifest.mpd"
+  },
+  {
+    "name": "HM TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11470-j9jr4uio-v1/imageContent-11470-j9jr4uio-m1.png",
+    "id": "349",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_566/output/manifest.mpd"
+  },
+  {
+    "name": "Raj News Telugu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11697-j9kjhxs0-v3/imageContent-11697-j9kjhxs0-m3.png",
+    "id": "430",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_690/output/manifest.mpd"
+  },
+  {
+    "name": "10 TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17564-jclrk6pk-v1/imageContent-17564-jclrk6pk-m1.png",
+    "id": "266",
+    "group": "Telugu",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd"
+  },
+  {
+    "name": "Swatantra TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73187-l8ou8wo8-v1/imageContent-73187-l8ou8wo8-m4.png",
+    "id": "1027",
+    "group": "null",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1849/output/manifest.mpd"
+  },
+  {
+    "name": "4tv News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47248-k1vn9ouw-v2/imageContent-47248-k1vn9ouw-m4.png",
+    "id": "774",
+    "group": "Telugu",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_970/output/manifest.mpd"
+  },
+  {
+    "name": "DD Saptagiri",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11381-j9jq1pkg-v1/imageContent-11381-j9jq1pkg-m1.png",
+    "id": "337",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_523/output/manifest.mpd"
+  },
+  {
+    "name": "DD Yadagiri",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11392-j9jq3lgw-v3/imageContent-11392-j9jq3lgw-m2.png",
+    "id": "548",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_526/output/manifest.mpd"
+  },
+  {
+    "name": "Raj Musix Telugu",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11691-j9kj50i0-v1/imageContent-11691-j9kj50i0-m1.png",
+    "id": "429",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_687/output/manifest.mpd"
+  },
+  {
+    "name": "Bhakti TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11242-j9irisyw-v2/imageContent-11242-j9irisyw-m2.png",
+    "id": "290",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_474/output/manifest.mpd"
+  },
+  {
+    "name": "Shubhavaarta TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11745-j9kwb568-v2/imageContent-11745-j9kwb568-m3.png",
+    "id": "445",
+    "group": "Telugu",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_716/output/manifest.mpd"
+  },
+  {
+    "name": "Aradana TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11224-j9iclykw-v1/imageContent-11224-j9iclykw-m2.png",
+    "id": "285",
+    "group": "Telugu",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd"
+  },
+  {
+    "name": "Swara Sagar",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33495-jnqw9k9c-v4/imageContent-33495-jnqw9k9c-m5.png",
+    "id": "351",
+    "group": "Telugu",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_533/output/manifest.mpd"
+  },
+  {
+    "name": "Hindu Dharmam",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18536-jct505dc-v2/imageContent-18536-jct505dc-m2.png",
+    "id": "630",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_864/output/manifest.mpd"
+  },
+  {
+    "name": "Jaya TV HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png",
+    "id": "708",
+    "group": "Telugu",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifest.mpd"
+  },
+  {
+    "name": "SVBC 2",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11882-j9l3qcrs-v1/imageContent-11882-j9l3qcrs-m1.png",
+    "id": "490",
+    "group": "Telugu",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_771/output/manifest.mpd"
+  }
+]

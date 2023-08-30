@@ -1,0 +1,688 @@
+[
+  {
+    "name": "DD News HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34886-jqc7dybs-v2/imageContent-34886-jqc7dybs-m2.png",
+    "id": "691",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd"
+  },
+  {
+    "name": "DD News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11333-j9joxlw8-v2/imageContent-11333-j9joxlw8-m2.png",
+    "id": "322",
+    "group": "News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/manifest.mpd"
+  },
+  {
+    "name": "ABP News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png",
+    "id": "177",
+    "group": "News",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/manifest.mpd"
+  },
+  {
+    "name": "Tata Play Seniors",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png",
+    "id": "783",
+    "group": "Knowledge",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manifest.mpd"
+  },
+  {
+    "name": "NDTV India",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png",
+    "id": "179",
+    "group": "News",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/manifest.mpd"
+  },
+  {
+    "name": "Aaj Tak HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png",
+    "id": "689",
+    "group": "News",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd"
+  },
+  {
+    "name": "Aaj Tak",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
+    "id": "153",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/manifest.mpd"
+  },
+  {
+    "name": "Zee News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png",
+    "id": "259",
+    "group": "News",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd"
+  },
+  {
+    "name": "India TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8568-j7lnde80-v1/imageContent-8568-j7lnde80-m1.png",
+    "id": "104",
+    "group": "News",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/manifest.mpd"
+  },
+  {
+    "name": "News 24",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-849-j5m9tmf4-v1/imageContent-849-j5m9tmf4-m1.png",
+    "id": "209",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_308/output/manifest.mpd"
+  },
+  {
+    "name": "News18 India",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png",
+    "id": "106",
+    "group": "News",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_149/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Hindustan",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png",
+    "id": "514",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd"
+  },
+  {
+    "name": "India News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-774-j5m3h6nk-v1/imageContent-774-j5m3h6nk-m1.png",
+    "id": "183",
+    "group": "News",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_150/output/manifest.mpd"
+  },
+  {
+    "name": "News Nation",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-114-j5fl632o-v1/imageContent-114-j5fl632o-m1.png",
+    "id": "36",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_309/output/manifest.mpd"
+  },
+  {
+    "name": "TOTAL TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11859-j9l2n36w-v2/imageContent-11859-j9l2n36w-m2.png",
+    "id": "485",
+    "group": "News",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_785/output/manifest.mpd"
+  },
+  {
+    "name": "Bharat 24",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BH24_Thumbnail-v3/BH24_Thumbnail.png",
+    "id": "1010",
+    "group": "null",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/manifest.mpd"
+  },
+  {
+    "name": "Surya Samachar",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72980-l8fn3f28-v2/imageContent-72980-l8fn3f28-m4.png",
+    "id": "1031",
+    "group": "null",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1842/output/manifest.mpd"
+  },
+  {
+    "name": "Sudarshan News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11831-j9kzkn40-v1/imageContent-11831-j9kzkn40-m1.png",
+    "id": "475",
+    "group": "News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_754/output/manifest.mpd"
+  },
+  {
+    "name": "Bharat Express",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BHEXP_Thumbnail-v2/BHEXP_Thumbnail.png",
+    "id": "1051",
+    "group": "null",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1867/output/manifest.mpd"
+  },
+  {
+    "name": "India Daily Live",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INDLive_Thumbnail-v1/INDLive_Thumbnail.png",
+    "id": "1084",
+    "group": "null",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1897/output/manifest.mpd"
+  },
+  {
+    "name": "APN News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17573-jclve4rc-v1/imageContent-17573-jclve4rc-m1.png",
+    "id": "286",
+    "group": "News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_459/output/manifest.mpd"
+  },
+  {
+    "name": "ET Now Swadesh",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66223-ku9gfjug-v1/imageContent-66223-ku9gfjug-m1.png",
+    "id": "950",
+    "group": "News",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1781/output/manifest.mpd"
+  },
+  {
+    "name": "India Voice",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34516-jp9bj0qg-v4/imageContent-34516-jp9bj0qg-m4.png",
+    "id": "685",
+    "group": "News",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd"
+  },
+  {
+    "name": "News 1 India",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11634-j9k0pbr4-v1/imageContent-11634-j9k0pbr4-m1.png",
+    "id": "414",
+    "group": "News",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_658/output/manifest.mpd"
+  },
+  {
+    "name": "Hindi Khabar",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11467-j9jr3k80-v2/imageContent-11467-j9jr3k80-m2.png",
+    "id": "344",
+    "group": "News",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd"
+  },
+  {
+    "name": "Bharat Samachar",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11243-j9itj54w-v2/imageContent-11243-j9itj54w-m2.png",
+    "id": "291",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_475/output/manifest.mpd"
+  },
+  {
+    "name": "Samay",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11719-j9ktg6ds-v2/imageContent-11719-j9ktg6ds-m2.png",
+    "id": "441",
+    "group": "News",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_703/output/manifest.mpd"
+  },
+  {
+    "name": "Network 10",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56488-kfgbqzso-v3/imageContent-56488-kfgbqzso-m5.png",
+    "id": "848",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1136/output/manifest.mpd"
+  },
+  {
+    "name": "Jantantra TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37210-jswmlty0-v2/imageContent-37210-jswmlty0-m2.PNG",
+    "id": "701",
+    "group": "Hindi",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_941/output/manifest.mpd"
+  },
+  {
+    "name": "Prime News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58484-kixj8h6o-v3/imageContent-58484-kixj8h6o-m2.png",
+    "id": "869",
+    "group": "News",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1145/output/manifest.mpd"
+  },
+  {
+    "name": "Har Khabar",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70993-l3v760zc-v1/imageContent-70993-l3v760zc-m4.png",
+    "id": "988",
+    "group": "null",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1814/output/manifest.mpd"
+  },
+  {
+    "name": "FM News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FNEWS_Thumbnail-v2/FNEWS_Thumbnail.png",
+    "id": "784",
+    "group": "null",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_976/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Business",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11120-j95jyuao-v1/imageContent-11120-j95jyuao-m1.png",
+    "id": "260",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/manifest.mpd"
+  },
+  {
+    "name": "Good News Today",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11206-j9icarsw-v2/imageContent-11206-j9icarsw-m2.png",
+    "id": "278",
+    "group": "News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd"
+  },
+  {
+    "name": "CNBC Awaaz",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png",
+    "id": "204",
+    "group": "News",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_147/output/manifest.mpd"
+  },
+  {
+    "name": "Sansad TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-825-j5m9c6c0-v2/imageContent-825-j5m9c6c0-m2.png",
+    "id": "213",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_281/output/manifest.mpd"
+  },
+  {
+    "name": "Sansad TV - Rajya Sabha",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-858-j5ma94ag-v2/imageContent-858-j5ma94ag-m2.png",
+    "id": "212",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_311/output/manifest.mpd"
+  },
+  {
+    "name": "NDTV 24x7",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png",
+    "id": "208",
+    "group": "News",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_107/output/manifest.mpd"
+  },
+  {
+    "name": "Times Now World",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11853-j9l1tvhs-v4/imageContent-11853-j9l1tvhs-m5.png",
+    "id": "547",
+    "group": "News",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_779/output/manifest.mpd"
+  },
+  {
+    "name": "TIMES NOW",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-303-j5ji8zco-v3/imageContent-303-j5ji8zco-m3.png",
+    "id": "90",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/manifest.mpd"
+  },
+  {
+    "name": "INDIA TODAY",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png",
+    "id": "1",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_221/output/manifest.mpd"
+  },
+  {
+    "name": "CNN News18",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-843-j5m9oyzc-v1/imageContent-843-j5m9oyzc-m1.png",
+    "id": "206",
+    "group": "News",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_108/output/manifest.mpd"
+  },
+  {
+    "name": "NewsX",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8012-j7a2doxc-v1/imageContent-8012-j7a2doxc-m1.png",
+    "id": "189",
+    "group": "English News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_152/output/manifest.mpd"
+  },
+  {
+    "name": "MIRROR NOW",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12189-j9plqlf4-v1/imageContent-12189-j9plqlf4-m1.png",
+    "id": "591",
+    "group": "News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_615/output/manifest.mpd"
+  },
+  {
+    "name": "WION",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png",
+    "id": "255",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_422/output/manifest.mpd"
+  },
+  {
+    "name": "REPUBLIC TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png",
+    "id": "72",
+    "group": "News",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_394/output/manifest.mpd"
+  },
+  {
+    "name": "CNBC TV18 Prime HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11284-j9j4sn4o-v2/imageContent-11284-j9j4sn4o-m2.png",
+    "id": "304",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd"
+  },
+  {
+    "name": "DD India",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11344-j9jpg7nc-v1/imageContent-11344-j9jpg7nc-m1.png",
+    "id": "324",
+    "group": "News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd"
+  },
+  {
+    "name": "NDTV Profit Prime",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-294-j5ji8n08-v1/imageContent-294-j5ji8n08-m1.png",
+    "id": "93",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_110/output/manifest.mpd"
+  },
+  {
+    "name": "CNBC-TV18",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-731-j5l3muhs-v1/imageContent-731-j5l3muhs-m1.png",
+    "id": "168",
+    "group": "News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_109/output/manifest.mpd"
+  },
+  {
+    "name": "ET NOW",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png",
+    "id": "88",
+    "group": "News",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/manifest.mpd"
+  },
+  {
+    "name": "CNN",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-4154-j69pdmvk-v1/imageContent-4154-j69pdmvk-m1.png",
+    "id": "243",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_410/output/manifest.mpd"
+  },
+  {
+    "name": "BBC News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_Thumbnail-v3/BBCWNW_Thumbnail.png",
+    "id": "188",
+    "group": "News",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_151/output/manifest.mpd"
+  },
+  {
+    "name": "Al Jazeera",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png",
+    "id": "190",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_187/output/manifest.mpd"
+  },
+  {
+    "name": "Channel News Asia",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-548-j5kxtaig-v1/imageContent-548-j5kxtaig-m1.png",
+    "id": "157",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_220/output/manifest.mpd"
+  },
+  {
+    "name": "France 24",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-435-j5jsyz6o-v1/imageContent-435-j5jsyz6o-m1.png",
+    "id": "131",
+    "group": "News",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_241/output/manifest.mpd"
+  },
+  {
+    "name": "TV5 Monde Asie",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-204-j5ftndtc-v1/imageContent-204-j5ftndtc-m1.png",
+    "id": "65",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_377/output/manifest.mpd"
+  },
+  {
+    "name": "DW",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-186-j5fsr1go-v1/imageContent-186-j5fsr1go-m1.png",
+    "id": "60",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/manifest.mpd"
+  },
+  {
+    "name": "Russia Today",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-312-j5jjsfhs-v1/imageContent-312-j5jjsfhs-m1.png",
+    "id": "98",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_238/output/manifest.mpd"
+  },
+  {
+    "name": "NHK World Japan",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69827-l1dh5izk-v1/imageContent-69827-l1dh5izk-m1.png",
+    "id": "976",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1804/output/manifest.mpd"
+  },
+  {
+    "name": "Australia TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-324-j5jl5hp4-v2/imageContent-324-j5jl5hp4-m2.png",
+    "id": "105",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_239/output/manifest.mpd"
+  },
+  {
+    "name": "Times Now Navbharat HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png",
+    "id": "932",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1327/output/manifest.mpd"
+  },
+  {
+    "name": "Times Now Navbharat",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67796-kx7lokw8-v2/imageContent-67796-kx7lokw8-m4.png",
+    "id": "966",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1791/output/manifest.mpd"
+  },
+  {
+    "name": "News India 24x7",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55547-kdzeosow-v3/imageContent-55547-kdzeosow-m6.png",
+    "id": "831",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1125/output/manifest.mpd"
+  },
+  {
+    "name": "News18 Uttar Pradesh Uttarakhand",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23223-jeyhnzfs-v1/imageContent-23223-jeyhnzfs-m1.png",
+    "id": "79",
+    "group": "Hindi",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_352/output/manifest.mpd"
+  },
+  {
+    "name": "Kashish News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png",
+    "id": "838",
+    "group": "Hindi",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Uttar Pradesh Uttarakhand",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21315-je85i72w-v1/imageContent-21315-je85i72w-m5.png",
+    "id": "637",
+    "group": "News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_874/output/manifest.mpd"
+  },
+  {
+    "name": "News18 Bihar Jharkhand",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23206-jey39grs-v1/imageContent-23206-jey39grs-m2.png",
+    "id": "166",
+    "group": "Hindi",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_247/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Bihar Jharkhand",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11140-j96syfuo-v1/imageContent-11140-j96syfuo-m1.png",
+    "id": "20",
+    "group": "Hindi",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/manifest.mpd"
+  },
+  {
+    "name": "News State Bihar Jharkhand",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74233-la71l5eg-v4/imageContent-74233-la71l5eg-m5.png",
+    "id": "1034",
+    "group": "null",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1853/output/manifest.mpd"
+  },
+  {
+    "name": "India News UP UK",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9007-j7ss7x80-v1/imageContent-9007-j7ss7x80-m1.png",
+    "id": "30",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_361/output/manifest.mpd"
+  },
+  {
+    "name": "News State UP Uttarakhand",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12252-j9qrkgu8-v3/imageContent-12252-j9qrkgu8-m2.png",
+    "id": "613",
+    "group": "News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_661/output/manifest.mpd"
+  },
+  {
+    "name": "Sadhna Plus News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55124-kd89b0f4-v1/imageContent-55124-kd89b0f4-m4.png",
+    "id": "827",
+    "group": "Hindi",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/manifest.mpd"
+  },
+  {
+    "name": "Sahara Samay UP-UKD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69315-l02nqy9k-v1/imageContent-69315-l02nqy9k-m6.png",
+    "id": "973",
+    "group": "Hindi",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1802/output/manifest.mpd"
+  },
+  {
+    "name": "DD Bharati",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11320-j9jlusp4-v1/imageContent-11320-j9jlusp4-m1.png",
+    "id": "316",
+    "group": "Entertainment",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_504/output/manifest.mpd"
+  },
+  {
+    "name": "DD Uttar Pradesh",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11389-j9jq2ybk-v1/imageContent-11389-j9jq2ybk-m1.png",
+    "id": "339",
+    "group": "Hindi",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_525/output/manifest.mpd"
+  },
+  {
+    "name": "DD Bihar",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11321-j9jlxaz4-v1/imageContent-11321-j9jlxaz4-m1.png",
+    "id": "317",
+    "group": "Hindi",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_505/output/manifest.mpd"
+  },
+  {
+    "name": "News18 Madhya Pradesh Chhattisgarh",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23266-jez523so-v1/imageContent-23266-jez523so-m2.png",
+    "id": "203",
+    "group": "Hindi",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_213/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Madhya Pradesh Chattisgarh",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11981-j9lunvjs-v1/imageContent-11981-j9lunvjs-m1.png",
+    "id": "512",
+    "group": "Hindi",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_837/output/manifest.mpd"
+  },
+  {
+    "name": "IBC 24",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-78-j5fikkk8-v1/imageContent-78-j5fikkk8-m1.png",
+    "id": "27",
+    "group": "Hindi",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_331/output/manifest.mpd"
+  },
+  {
+    "name": "Bansal News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25494-ji1a6ym0-v2/imageContent-25494-ji1a6ym0-m2.png",
+    "id": "652",
+    "group": "Hindi",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/manifest.mpd"
+  },
+  {
+    "name": "INH 24X7",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35622-jrr5mvig-v1/imageContent-35622-jrr5mvig-m1.png",
+    "id": "698",
+    "group": "Hindi",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_939/output/manifest.mpd"
+  },
+  {
+    "name": "India News MP CG",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8971-j7rffd40-v1/imageContent-8971-j7rffd40-m1.png",
+    "id": "222",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_359/output/manifest.mpd"
+  },
+  {
+    "name": "News State MP CG",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31191-jldnwhhs-v1/imageContent-31191-jldnwhhs-m1.png",
+    "id": "643",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_878/output/manifest.mpd"
+  },
+  {
+    "name": "Swaraj Express SMBC",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12143-j9p7vx9c-v1/imageContent-12143-j9p7vx9c-m1.png",
+    "id": "577",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_719/output/manifest.mpd"
+  },
+  {
+    "name": "Sadhna News MP CG",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55112-kd88u9so-v1/imageContent-55112-kd88u9so-m2.png",
+    "id": "829",
+    "group": "Hindi",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/manifest.mpd"
+  },
+  {
+    "name": "News 24 Madhyapradesh Chattisgarh",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62181-knrp5974-v1/imageContent-62181-knrp5974-m1.png",
+    "id": "902",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1310/output/manifest.mpd"
+  },
+  {
+    "name": "India News Rajasthan",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9012-j7ssufeo-v1/imageContent-9012-j7ssufeo-m1.png",
+    "id": "14",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/manifest.mpd"
+  },
+  {
+    "name": "Patrika TV Rajasthan",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-10-j5f7xqxc-v1/imageContent-10-j5f7xqxc-m1.png",
+    "id": "5",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_399/output/manifest.mpd"
+  },
+  {
+    "name": "Republic Bangla",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png",
+    "id": "890",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1301/output/manifest.mpd"
+  },
+  {
+    "name": "Mantavya News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61443-kmbf79yw-v1/imageContent-61443-kmbf79yw-m1.png",
+    "id": "891",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1302/output/manifest.mpd"
+  },
+  {
+    "name": "PTC News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-300-j5ji8seo-v1/imageContent-300-j5ji8seo-m1.png",
+    "id": "91",
+    "group": "Punjabi",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_246/output/manifest.mpd"
+  },
+  {
+    "name": "News18 Punjab Haryana",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1011-j5ng33kg-v2/imageContent-1011-j5ng33kg-m2.png",
+    "id": "232",
+    "group": "News",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_313/output/manifest.mpd"
+  },
+  {
+    "name": "India News Punjab",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11482-j9jsdwfk-v1/imageContent-11482-j9jsdwfk-m1.jpg",
+    "id": "366",
+    "group": "Punjabi",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_573/output/manifest.mpd"
+  },
+  {
+    "name": "India News Haryana",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8968-j7rcix2w-v1/imageContent-8968-j7rcix2w-m1.png",
+    "id": "13",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_280/output/manifest.mpd"
+  },
+  {
+    "name": "Janta TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11502-j9jtlmi8-v3/imageContent-11502-j9jtlmi8-m4.png",
+    "id": "371",
+    "group": "News",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/manifest.mpd"
+  },
+  {
+    "name": "MH One News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11587-j9jyvxl4-v1/imageContent-11587-j9jyvxl4-m1.png",
+    "id": "401",
+    "group": "News",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_626/output/manifest.mpd"
+  },
+  {
+    "name": "Valam TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61633-kmlgwaww-v1/imageContent-61633-kmlgwaww-m2.png",
+    "id": "893",
+    "group": "News",
+    "url": "https://delta45tatasky.akamaized.net/out/i/1223.mpd"
+  }
+]

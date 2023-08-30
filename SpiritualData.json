@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Somnath Temple",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png",
+    "id": "842",
+    "group": "Spiritual",
+    "url": "https://delta45tatasky.akamaized.net/out/i/722.mpd"
+  },
+  {
+    "name": "Shirdi Sai Baba",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png",
+    "id": "840",
+    "group": "Spiritual",
+    "url": "https://delta45tatasky.akamaized.net/out/i/554.mpd"
+  },
+  {
+    "name": "Tata Play Astro Duniya",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58613-kj283ly8-v2/imageContent-58613-kj283ly8-m2.png",
+    "id": "872",
+    "group": "Spiritual",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1148/output/manifest.mpd"
+  },
+  {
+    "name": "Tata Play Ibaadat",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44321-jz2zb8pk-v3/imageContent-44321-jz2zb8pk-m3.png",
+    "id": "735",
+    "group": "Spiritual",
+    "url": "https://delta45tatasky.akamaized.net/out/i/748.mpd"
+  },
+  {
+    "name": "Tata Play Aradhana",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47669-k2loqvjc-v5/imageContent-47669-k2loqvjc-m5.png",
+    "id": "742",
+    "group": "Spiritual",
+    "url": "https://delta45tatasky.akamaized.net/out/i/1265.mpd"
+  },
+  {
+    "name": "Aastha",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png",
+    "id": "38",
+    "group": "Spiritual",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_341/output/manifest.mpd"
+  },
+  {
+    "name": "Sanskar",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-123-j5fnf1fc-v1/imageContent-123-j5fnf1fc-m1.png",
+    "id": "43",
+    "group": "Spiritual",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_342/output/manifest.mpd"
+  },
+  {
+    "name": "Paras Gold One",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11725-j9kw030w-v4/imageContent-11725-j9kw030w-m4.png",
+    "id": "446",
+    "group": "Spiritual",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_669/output/manifest.mpd"
+  },
+  {
+    "name": "MH One Shraddha",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11590-j9jyx4so-v1/imageContent-11590-j9jyx4so-m1.png",
+    "id": "397",
+    "group": "Spiritual",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_627/output/manifest.mpd"
+  },
+  {
+    "name": "Sadhna TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11746-j9kwfmfs-v2/imageContent-11746-j9kwfmfs-m2.png",
+    "id": "447",
+    "group": "Spiritual",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_696/output/manifest.mpd"
+  },
+  {
+    "name": "Sharnam TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11547-j9ju62m8-v3/imageContent-11547-j9ju62m8-m3.png",
+    "id": "385",
+    "group": "Spiritual",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_605/output/manifest.mpd"
+  },
+  {
+    "name": "Peace of Mind",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11664-j9kcouh4-v1/imageContent-11664-j9kcouh4-m1.png",
+    "id": "420",
+    "group": "Spiritual",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_670/output/manifest.mpd"
+  },
+  {
+    "name": "Jinvani Channel",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11507-j9jto5k0-v1/imageContent-11507-j9jto5k0-m1.png",
+    "id": "373",
+    "group": "Spiritual",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_589/output/manifest.mpd"
+  },
+  {
+    "name": "Dharma Sandesh",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ARIH_Thumbnail-v2/ARIH_Thumbnail.png",
+    "id": "288",
+    "group": "Spiritual",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_461/output/manifest.mpd"
+  },
+  {
+    "name": "Ishwar TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12196-j9q3ez54-v1/imageContent-12196-j9q3ez54-m1.png",
+    "id": "594",
+    "group": "Spiritual",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_579/output/manifest.mpd"
+  },
+  {
+    "name": "Satsang TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11767-j9kwretk-v1/imageContent-11767-j9kwretk-m1.png",
+    "id": "456",
+    "group": "Spiritual",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_713/output/manifest.mpd"
+  },
+  {
+    "name": "Shubh TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11775-j9kwuk8w-v1/imageContent-11775-j9kwuk8w-m1.png",
+    "id": "458",
+    "group": "Spiritual",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_715/output/manifest.mpd"
+  },
+  {
+    "name": "Aastha Bhajan",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11212-j9icd8jc-v1/imageContent-11212-j9icd8jc-m1.png",
+    "id": "283",
+    "group": "Spiritual",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_436/output/manifest.mpd"
+  },
+  {
+    "name": "Vedic",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11903-j9l4wxy8-v1/imageContent-11903-j9l4wxy8-m1.png",
+    "id": "500",
+    "group": "Spiritual",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_814/output/manifest.mpd"
+  },
+  {
+    "name": "Subharti TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43103-jxzlrb0o-v2/imageContent-43103-jxzlrb0o-m2.png",
+    "id": "728",
+    "group": "Hindi",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_958/output/manifest.mpd"
+  },
+  {
+    "name": "DIVYA",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11408-j9jqmlvs-v6/imageContent-11408-j9jqmlvs-m4.png",
+    "id": "775",
+    "group": "Spiritual",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_969/output/manifest.mpd"
+  },
+  {
+    "name": "Awakening",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65100-kspm2814-v1/imageContent-65100-kspm2814-m2.png",
+    "id": "935",
+    "group": "Spiritual",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd"
+  },
+  {
+    "name": "Santwani",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62610-koxujv2g-v2/imageContent-62610-koxujv2g-m3.png",
+    "id": "911",
+    "group": "Spiritual",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/manifest.mpd"
+  },
+  {
+    "name": "Aadinath TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69024-kzo68h3c-v1/imageContent-69024-kzo68h3c-m1.png",
+    "id": "969",
+    "group": "Spiritual",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1799/output/manifest.mpd"
+  },
+  {
+    "name": "Anaadi TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65108-ksr7d028-v1/imageContent-65108-ksr7d028-m2.png",
+    "id": "937",
+    "group": "Spiritual",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd"
+  },
+  {
+    "name": "Garv Gurbani",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60927-kljn2znc-v1/imageContent-60927-kljn2znc-m1.png",
+    "id": "887",
+    "group": "Spiritual",
+    "url": "https://delta45tatasky.akamaized.net/out/i/1155.mpd"
+  },
+  {
+    "name": "Swar Shree",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60933-kljn4c9c-v1/imageContent-60933-kljn4c9c-m1.png",
+    "id": "883",
+    "group": "Spiritual",
+    "url": "https://delta45tatasky.akamaized.net/out/i/1219.mpd"
+  },
+  {
+    "name": "Mahakaleshwar Temple, Ujjain",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAK_Thumbnail-v3/MAHAK_Thumbnail.png",
+    "id": "841",
+    "group": "Spiritual",
+    "url": "https://delta45tatasky.akamaized.net/out/i/1299.mpd"
+  },
+  {
+    "name": "Samara News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61629-kmlgw3yw-v2/imageContent-61629-kmlgw3yw-m5.png",
+    "id": "892",
+    "group": "News",
+    "url": "https://delta45tatasky.akamaized.net/out/i/767.mpd"
+  },
+  {
+    "name": "Live Iskcon Vrindavan",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65966-ku6es6wo-v4/imageContent-65966-ku6es6wo-m4.png",
+    "id": "944",
+    "group": "Spiritual",
+    "url": "https://delta45tatasky.akamaized.net/out/i/805.mpd"
+  },
+  {
+    "name": "Live Patna Sahib Patna",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65977-ku6g2hko-v3/imageContent-65977-ku6g2hko-m3.png",
+    "id": "947",
+    "group": "Spiritual",
+    "url": "https://delta45tatasky.akamaized.net/out/i/496.mpd"
+  }
+]
